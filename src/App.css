@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+
+form {
+  margin-bottom: 20px;
+  background-color: #2e2e2e;
+  padding: 30px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.submitButton {
+  padding: 30px;
+}
+
+.erro {
+  color: red;
+}
+
+.color-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color-card {
+  width: 150px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+}
